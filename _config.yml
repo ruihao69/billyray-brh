@@ -17,15 +17,15 @@ avatar: https://github.com/ruihao69.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
+  dribbble: 
+  email:biruihao@stu.xmu.edu.cn
   facebook:
   flickr:
   github: ruihao69
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: placeholder# just type anything here for a working RSS icon
 # twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
